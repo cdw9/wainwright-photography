@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Been and Done</title><style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a href="/websites/refugeteen/home/here_now.shtml">Here &amp; Now</a>
+	<a href="/websites/refugeteen/home/up_coming.shtml">Up &amp; Coming</a>
+	<a class="current">Been &amp; Done</a>
+	<a href="/websites/refugeteen/home/who_why.shtml">Who &amp; Why</a>
+</div>
+
+<div id="homeInfo">
+	
+	<p>Noblesville's fall break was last weekend.  Here's what I got from them:</p>
+    <p><strong>Alyssa</strong> - "Well&hellip;Thursday I got 10 inches of hair cut off so that I could donate it. Friday I had basketball in the morning and then helped my friend Allie find a costume for a party she was going to (she went as Hillary Clinton). Saturday I had SATs in the morning, and then went to cross country state to see how we did (we got 8th) Today I am donating blood doing all the homework that I put off, and applying to more colleges :]</p>
+    <p><strong>Trent</strong> - Didn't send me anything, but he raked the leaves at Grandpa's house, came into the office, and went to a concert in Columbus with Logan S. and Shelbie.</p>
+    <p><strong>Shelbie</strong> - Didn't send anything in, but I know she went to a concert in Columbus.</p>
+    <p>Other than that, it was a slow week.</p>
+
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Parent Info</title>
+	<style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a class="current">Parent Info</a>
+	<a class="invisible">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+
+<div id="homeInfo">
+    <p>ICYC - We will be going to the Indiana Christian Youth Conference again this year. Last year it was a blast! It is held at Anderson University in Anderson, In. The cost for the whole thing will be $50. It was such a blessing last year to have the kids stay over there, it really built a sense of "team". The event is from the evening of November 21-23.</p>
+    <p>We are now doing Family Group meetings throughout the week. Please look for more info in the "Family Groups" tab to the right. The times and places of all the groups are listed in the "Family Groups" section of the website. All monthly events and dates will be posted here with information and details.</p>
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

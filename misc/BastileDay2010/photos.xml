@@ -1,0 +1,681 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "7/15/10">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG2_9709.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9709.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9710.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9710.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9711.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9711.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9712.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9712.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9713.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9713.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9714.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9714.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9715.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9715.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9716.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9716.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9717.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9717.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9718.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9718.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9719.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9719.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9720.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9720.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9721.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9721.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9722.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9722.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9723.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9723.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9725.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9725.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9726.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9726.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9727.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9727.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9728.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9728.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9729.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9729.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9730.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9730.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9731.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9731.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9732.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9732.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9733.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9733.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9734.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9734.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9735.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9735.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9736.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9736.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9737.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9737.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9738.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9738.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9739.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9739.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9740.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9740.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9759.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9759.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9760.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9760.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9763.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9763.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9764.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9764.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9765.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9765.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9766.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9766.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9768.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9768.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9770.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9770.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9773.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9773.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9774.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9774.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9776.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9776.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9779.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9779.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9781.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9781.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9785.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9785.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9786.jpg"
+width = "366"
+height = "550"
+thumbpath = "IMG2_9786.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG2_9787.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9787.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9789.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9789.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9790.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9790.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9794.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9794.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9797.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9797.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9798.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9798.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9800.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9800.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9805.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9805.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9806.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9806.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9815.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9815.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9822.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9822.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9825.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9825.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9826.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9826.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9829.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9829.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9834.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9834.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9836.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9836.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9837.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9837.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9843.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9843.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9849.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9849.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG2_9854.jpg"
+width = "550"
+height = "366"
+thumbpath = "IMG2_9854.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

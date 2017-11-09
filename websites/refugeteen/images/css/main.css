@@ -1,0 +1,266 @@
+body {
+	background: #D7D799 url(/websites/refugeteen/images/global/main_bg2.jpg) repeat-y center;
+	font-family: Trebuchet MS, Georgia, Sans-serif;
+	font-size: 13px;
+	margin: 0;
+	/* color: #333333; */
+	}
+	
+a {
+	color: #333333;
+	text-decoration: none;
+	outline: none;
+	}
+	
+img {
+	padding: 5px;
+	}
+  
+#pageBackground {
+	width: 800px;
+	margin: 0px auto;
+	background: #808040;}
+	
+#mainPage {
+	width: 800px;
+	margin: 0px auto;
+	float: left;
+	background: url(/websites/refugeteen/images/global/cityscape.jpg) no-repeat 0 0 fixed;
+	min-height: 600px;
+	}
+	
+#pageContainer {
+	width: 775px;
+	margin-left: 25px;
+	}
+	
+h1.title {
+	text-indent: -9999px;
+	margin: 15px 0px 0px 0px;
+	padding: 0;
+	border: 0;
+	background: url(/websites/refugeteen/images/global/title.jpg) top left no-repeat;
+	}
+	
+h1.title a:link, h1.title a:visited {
+	display: block;	
+	width: 258px;
+	height: 45px;
+	padding: 0;
+	border: 0;
+	}
+	
+h1.title a:hover {
+	background: url(/websites/refugeteen/images/global/title_over.jpg) top left no-repeat;
+	}
+	
+h3 {
+	clear: left;
+	}
+	
+p.scripture {
+	margin: 0px 40px 10px 25px;
+	text-align: justify;
+	font-style: italic;
+	}
+	
+#infoTabs {
+	margin: 15px 0px 0px 0px;
+	padding: none;
+	width: 770px;
+	}
+	
+div#infoTabs a {
+	background: url(/websites/refugeteen/images/global/cityscape_gray.jpg) 0 0 no-repeat fixed;
+	padding: 5px 10px 5px 10px;
+	margin-right: 10px;
+	display: block;
+	float: left;
+	font-weight: bold;
+	}
+	
+div#infoTabs a:link {
+	background: url(/websites/refugeteen/images/global/cityscape_gray.jpg) 0 0 no-repeat fixed;
+	padding: 5px 10px 5px 10px;
+	margin-right: 10px;
+	display: block;
+	float: left;
+	font-weight: bold;
+	}
+	
+div#infoTabs a:visited {
+	background: url(/websites/refugeteen/images/global/cityscape_gray.jpg) 0 0 no-repeat fixed;
+	padding: 5px 10px 5px 10px;
+	margin-right: 10px;
+	display: block;
+	float: left;
+	font-weight: bold;
+	}
+	
+div#infoTabs .current {
+	background: url(/websites/refugeteen/images/global/cityscape_yellow.jpg) 0 0 no-repeat fixed;
+	}
+	
+div#infoTabs .invisible {
+	background: url(/websites/refugeteen/images/global/cityscape.jpg) no-repeat 0 0 fixed;
+	}
+	
+#homeInfo {
+	float: left;
+	width: 590px;
+	background: url(/websites/refugeteen/images/global/cityscape_yellow.jpg) 0 0 no-repeat fixed;
+	min-height: 400px;
+	margin: 0px 15px 10px 0px;
+	padding: 10px;
+	}
+	
+div#homeInfo a {
+	border-bottom: 1px dotted #333333;
+	}
+	
+div#homeInfo a:hover {
+	border-bottom: none;
+	}
+	
+#homeInsight {
+	clear: left;
+	width: 620px;
+	margin: 0px;
+	overflow: hidden;
+	}
+	
+#homeInsight .grayBox {
+	padding-top: -5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-top: 0px;
+	width: 288px;
+	float: left;
+	border: 1px solid #303030;
+	background: url(/websites/refugeteen/images/global/cityscape_gray.jpg) 0 0 no-repeat fixed;
+	padding-bottom: 100px;
+	margin-bottom: -100px;
+	}
+	
+div#homeInsight a {
+	border-bottom: 1px dotted #333333;
+	}
+
+/* MENU STUFF */
+	
+#menu {
+	float: left;
+	margin: 0px 15px 0px 0px;
+	}
+	
+#menu h3 {
+	margin-top: 0px;
+	text-indent: -9999px;
+	}
+	
+	
+div#menu a {
+	/*background: url(/websites/refugeteen/images/global/cityscape_green.jpg) 0 0 no-repeat fixed;*/
+	width: 120px;
+	height: 70px;
+	text-align: center;
+	display: block;
+	border: 1px solid #303030;
+	}
+	
+h3.home {
+	background: url(/websites/refugeteen/images/global/menu/home.jpg) top left no-repeat;
+	}
+	
+h3.home a {
+	background: url(/websites/refugeteen/images/global/menu/home.jpg) top left no-repeat;
+	}
+	
+h3.home a:hover {
+	background: url(/websites/refugeteen/images/global/menu/home.jpg) 0 -70px no-repeat;
+	}
+	
+h3.scripture {
+	background: url(/websites/refugeteen/images/global/menu/scripture.jpg) top left no-repeat;
+	}
+	
+h3.scripture a {
+	background: url(/websites/refugeteen/images/global/menu/scripture.jpg) top left no-repeat;
+	}
+	
+h3.scripture a:hover {
+	background: url(/websites/refugeteen/images/global/menu/scripture.jpg) 0 -70px no-repeat;
+	}
+	
+h3.challenge {
+	background: url(/websites/refugeteen/images/global/menu/challenge.jpg) top left no-repeat;
+	}
+	
+h3.challenge a {
+	background: url(/websites/refugeteen/images/global/menu/challenge.jpg) top left no-repeat;
+	}
+	
+h3.challenge a:hover {
+	background: url(/websites/refugeteen/images/global/menu/challenge.jpg) 0 -70px no-repeat;
+	}
+	
+h3.skate {
+	background: url(/websites/refugeteen/images/global/menu/skate.jpg) top left no-repeat;
+	}
+	
+h3.skate a {
+	background: url(/websites/refugeteen/images/global/menu/skate.jpg) top left no-repeat;
+	}
+	
+h3.skate a:hover {
+	background: url(/websites/refugeteen/images/global/menu/skate.jpg) 0 -70px no-repeat;
+	}
+	
+h3.places {
+	background: url(/websites/refugeteen/images/global/menu/places.jpg) top left no-repeat;
+	}
+	
+h3.places a {
+	background: url(/websites/refugeteen/images/global/menu/places.jpg) top left no-repeat;
+	}
+	
+h3.places a:hover {
+	background: url(/websites/refugeteen/images/global/menu/places.jpg) 0 -70px no-repeat;
+	}
+	
+h3.emails {
+	background: url(/websites/refugeteen/images/global/menu/emails.jpg) top left no-repeat;
+	}
+	
+h3.emails a {
+	background: url(/websites/refugeteen/images/global/menu/emails.jpg) top left no-repeat;
+	}
+	
+h3.emails a:hover {
+	background: url(/websites/refugeteen/images/global/menu/emails.jpg) 0 -70px no-repeat;
+	}
+	
+h3.parent a {
+	background: url(/websites/refugeteen/images/global/menu/parent.jpg) top left no-repeat;
+	}
+	
+h3.parent a:hover {
+	background: url(/websites/refugeteen/images/global/menu/parent.jpg) 0 -70px no-repeat;
+	}
+	
+h3.family a {
+	background: url(/websites/refugeteen/images/global/menu/family.jpg) top left no-repeat;
+	}
+	
+h3.family a:hover {
+	background: url(/websites/refugeteen/images/global/menu/family.jpg) 0 -70px no-repeat;
+	}
+	
+.boldMe {
+	font-weight: bold;
+	color: #9E1604;
+	}
+
+
+
+

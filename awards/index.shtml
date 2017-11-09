@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+
+<script type="text/javascript" src="/images/lightbox.js"></script>
+</head>
+
+<body>
+
+<h2>Photography by Chrissy Wainwright</h2>
+
+<!--#include virtual="/menu.html" -->
+
+<div id="rightContent">
+	<p>These are photos that have won awards or have are being featured in any particular place.</p>
+	<p>Click on any image to view its larger version.</p>
+	
+	<div class="award">
+		<a href="images/eagle_large.jpg" rel="lightbox" title="Nice Catch"><img src="images/eagle.jpg" alt="Nice Catch" /></a>
+		<p style="float: left; width: 240px;">2008 Anderson InFocus - Honorable Mention<br /><br />
+		    2008 Eagle Creek Image of Nature - 3rd Place</p>
+	</div>
+	
+	<div class="award">
+		<a href="images/waxwing_large.jpg" rel="lightbox" title="Cedar Waxwing"><img src="images/waxwing.jpg" alt="Cedar Waxwing" /></a>
+		<p style="float: left; width: 240px;">2008 Eagle Creek Image of Nature - Honorable Mention</p>
+	</div>
+	
+	<div class="award">
+		<a href="images/ohare_large.jpg" rel="lightbox" title="Moving Walkways"><img src="images/ohare.jpg" alt="Moving Walkways" /></a>
+		<p style="float: left; width: 240px;">2008 Anderson InFocus - Merit Award</p>
+	</div>
+	
+	<div class="award">
+		<a href="images/wren_large.jpg" rel="lightbox" title="A caronlina wren"><img src="images/wren.jpg" alt="Little Wren" /></a>
+		<p style="float: left; width: 240px;">2007 Eagle Creek Image of Nature - 3rd Place</p>
+	</div>
+	
+	<div class="award">
+		<a href="images/orange_burst_large.jpg" rel="lightbox" title="A gerbera daisy"><img src="images/orange_burst.jpg" alt="Orange Burst" /></a>
+		<p style="float: left; width: 240px;">2007 Indiana State Fair - 2nd place in the Color Nature/Flora category</p>
+	</div>
+	
+	<div class="award">
+		<a href="images/bridge_large.jpg" rel="lightbox" title="The I-74 Bridge in Peoria, IL"><img src="images/bridge.jpg" alt="Murray Baker Bridge at Night" /></a>
+		<p style="float: left; width: 240px;">Featured on <a href="http://www.illinois.com/city.php?cityFips=1759000">illinois.com</a>.</p>
+	</div>
+	
+
+</div>
+
+<!--#include virtual="/footer.html" -->
+
+</body>
+</html>

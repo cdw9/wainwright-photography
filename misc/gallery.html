@@ -1,0 +1,55 @@
+<html>
+<head>
+    <script type="text/javascript" src="/images/jquery.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            function centerImage(ele, w, h, pw, ph) {
+               
+               var heightdiff = -((h - ph) / 2);
+               var widthdiff = -((w - pw) / 2);
+               
+               $(ele).css("margin-left", widthdiff);
+               $(ele).css("margin-top", heightdiff);
+             }
+         
+             $("#gallery > div > img").load(function () { 
+               centerImage($(this), $(this).width(), $(this).height(), $(this).parent().width(), $(this).parent().height()); 
+             });
+        });
+         
+    </script>
+    <style type="text/css">
+    
+    #gallery div {
+        width: 150px;
+        height: 150px;
+        overflow: hidden;
+        float: left;
+        margin: 0 10px 10px 0;
+    }
+    </style>
+</head>
+
+<body>
+<div id="gallery">
+<div><img src="http://farm4.static.flickr.com/3151/2980059454_59963f443c_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3225/2979201361_42981335d8_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3250/2979199763_a7d5f6638f_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3007/2979198669_8b759a0f50_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3067/2979197983_2c7aff1f63_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3141/2980054290_306030f62e_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3147/2979197543_839ce59b3e_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3278/2971069401_5430ef8098_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3006/2971912058_c07e3c7a33_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3025/2971911978_974d690105_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3235/2971069001_3ee222aca9_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3056/2971911554_8154f44708_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3247/2971068669_670ae24c72_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3279/2971911514_09e59f2e1f_m.jpg" /></div>
+<div><img src="http://farm4.static.flickr.com/3239/2971068425_384ce2f2cc_m.jpg" /></div>
+<div><img src="http://farm3.static.flickr.com/2231/2971910976_6fa3358837_m.jpg" /></div>
+</div>
+<span class="values"></span>
+</body>
+
+</html>

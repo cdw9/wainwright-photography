@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Places To Go</title><style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+	<!-- compliance patch for microsoft browsers -->
+	<!--[if lt IE 7]>
+	<script src="/images/ie7/ie7-standard-p.js" type="text/javascript">
+	</script>
+	<![endif]-->
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a class="current">Places To Go</a>
+	<a class="invisible">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+
+<div id="homeInfo">
+	<p>Refuge Christian Church- <a href="http://www.refugechristianchurch.org">refugechristianchurch.org</a></p>
+	<p>Nathan's Music - <a href="http://www.nathanwainwright.com">nathanwainwright.com</a></p>
+	<p>Web-based Bible Search- <a href="http://www.biblegateway.com">biblegateway.com</a></p>
+	<p>Leadership Reference/Ideas Website- <a href="http://www.youthpastor.com">youthpastor.com</a></p>
+	<p>AOL Instant Messenger Download- <a href="http://www.aim.com">aim.com</a></p>
+	
+	
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

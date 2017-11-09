@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Who and Why</title><style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a href="/websites/refugeteen/home/here_now.shtml">Here &amp; Now</a>
+	<a href="/websites/refugeteen/home/up_coming.shtml">Up &amp; Coming</a>
+	<a href="/websites/refugeteen/home/been_done.shtml">Been &amp; Done</a>
+	<a class="current">Who &amp; Why</a>
+</div>
+
+<div id="homeInfo">
+	
+	<h3>Our Fearless Leader:</h3>
+	<p><img src="images/fearless.jpg" alt="Nathan" style="float: right" />Hello, I was asked by myself to write a little something about who I am so that you would all know what you are getting yourselves into. Since the request came from a dear friend in whom I have great respect I said yes, as long as he had the standard $50 co-pay for the article. After a few threats and no small amount of bullying I gave myself my last fifty bucks then got started.</p>
+    <p>My name is Nathan Wainwright and I am a product of the great state of Illinois (no, I'm not from Chicago, so don't ask). A recent import to Indiana I have spent a number of years in youth and worship ministry at various churches and am well pleased with where I find myself. I am a graduate of Western Illinois University (yes, it's in the middle of a corn field) and a graduate of Lincoln Christian Seminary (yes, another corn field). Both fine schools, but I'm sure most of you are more interested in other stuff. "Yes Nathan we realize you think you're smart with all of your fancy 'degrees' (neither of which is Fahrenheit or Celsius&hellip;yuk, yuk, yuk), but we want to read more funny stuff." Not to fear&hellip;</p>
+    <p>I learned guitar and bass when I was 20 and have managed to play for the last eight years, that however doesn't mean I'm any good at either instrument. As you may have deduced from the previous sentence I am 28 (assuming you can add).</p>
+    <p>I have a lovely wife that I have been married to since 2002 (she's the one who put this whole website together) her name is Chrissy. If you have complaints regarding the website please direct them to her&hellip;the problems are her fault. If you think the website is awesome then you may congratulate me on picking a winner (or as my great-grandfather would have said "she's good stock." Needless to say my mother didn't appreciate that comment when she first met my great-grandfather), but back to my wife. She is a lovely young woman who works as a web-developer.</p>
+    <p>I long to show you how much Jesus means to me and how He has changed my life. I have a deep desire to express His saving love and grace in every way possible that you might grow in your faith and understanding or learn about Him for the first time. More than all the funny stuff, more than the good times we'll have, more than the work we'll do together I want you to know how vital it is that you have a growing understanding of Jesus Christ and the sacrifice He made for us.</p>
+
+	<h3>Who We Are:</h3>
+	<p>We are everyday people with struggles and hopes. We are sinners saved by grace who long to bring our hope to others. We strive to know the seriousness of our convictions and the sacrifice that was made to bring us to where we are. We try not to take ourselves too seriously and we realize that life has a place for joy as well as frustration, peace as well as chaos, life in the midst of death. We welcome you to join our walk as we journey to a deeper understanding of Jesus Christ and what He has done for us.</p>
+	
+	<h3>Our Mission:</h3>
+	<p>To help students experience the saving grace of Jesus Christ in new, meaningful, and passionate ways.</p>
+	
+	<h3>How We Accomplish This:</h3>
+	<p>1 Corinthians 9:19-24</p>
+	<p><strong>Discipleship:</strong> We must walk the walk and not just talk the talk. We want the students to have more than just head knowledge of their faith. By creating an environment that encourages a holistic understanding of what it means to be a follower of Christ we can make a difference not just now, but into the future as well.</p>
+	<p><strong>Small group activities:</strong> By reaching out to kids in not only large group activities but also using a more intimate setting where matters of faith can be discussed in a comfortable non-judgmental environment.</p>
+	<p><strong>Outreach/large group activities:</strong> These types of activities are designed primarily to bring in new or non-active students.</p>
+	<p><strong>Group specific activities:</strong> Not all activities will be meant for all of the students. Different activities attract different types of people. Everyone is comfortable in a different environment and we have to meet students where they are and the show them the way to a closer walk with Christ.</p>
+	<p><strong>Time for each student:</strong> We are more than happy to meet with any student, Jr. or Sr. High, member or non-member, Christian or Non-Christian. We are here to help the students struggle through this tough time in their lives.</p>
+	
+	
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+
+<script type="text/javascript" src="/images/lightbox.js"></script>
+</head>
+
+<body>
+
+<h2>Photography by Chrissy Wainwright</h2>
+
+<!--#include virtual="/menu.html" -->
+
+<div id="rightContent"><div id="portfolio">
+
+	<p>Click on an image to view it large</p>
+	
+	<h3>Nature</h3>
+	<a href="images/chipmunk_large.jpg" rel="lightbox" title="Chipmunk"><img src="images/chipmunk.jpg" alt="" /></a>
+	<a href="images/crab_large.jpg" rel="lightbox" title="Crab on Ft. Myers Beach"><img src="images/crab.jpg" alt="" /></a>
+	<a href="images/duck_large.jpg" rel="lightbox" title="Mandarin Duck at Disney World"><img src="images/duck.jpg" alt="" /></a>
+	<a href="images/hoverfly_large.jpg" rel="lightbox" title="Hoverfly"><img src="images/hoverfly.jpg" alt="" /></a>
+	<a href="images/lions_large.jpg" rel="lightbox" title="Lions at the Indianapolis Zoo"><img src="images/lions.jpg" alt="" /></a>
+	<a href="images/squirrel_large.jpg" rel="lightbox"><img src="images/squirrel.jpg" alt="" /></a>
+	
+	<h3>Macro</h3>
+	<a href="images/colorful_large.jpg" rel="lightbox"><img src="images/colorful.jpg" alt="" /></a>
+	<a href="images/nano_large.jpg" rel="lightbox" title="An iPod Nano"><img src="images/nano.jpg" alt="" /></a>
+	<a href="images/rubberband_large.jpg" rel="lightbox" title="A rubberband ball"><img src="images/rubberband.jpg" alt="" /></a>
+	<a href="images/soup_large.jpg" rel="lightbox" title="Alphabet Soup"><img src="images/soup.jpg" alt="" /></a>
+
+	<h3>Night</h3>
+	<a href="images/37_large.jpg" rel="lightbox" title="Highway 37 at night"><img src="images/37.jpg" alt="" /></a>
+	<a href="images/dock_large.jpg" rel="lightbox" title="Dock at Ft. Myers Beach"><img src="images/dock.jpg" alt="" /></a>
+	<a href="images/lightning_large.jpg" rel="lightbox" title="Lightning strike in Knoxville, IL"><img src="images/lightning.jpg" alt="" /></a>
+	<a href="images/nightgrass_large.jpg" rel="lightbox"><img src="images/nightgrass.jpg" alt="" /></a>
+	<a href="images/palace_large.jpg" rel="lightbox" title="Magic Kindom, Walt Disney World"><img src="images/palace.jpg" alt="" /></a>
+	<a href="images/peoria_large.jpg" rel="lightbox" title="Downtown Peoria"><img src="images/peoria.jpg" alt="" /></a>
+	<a href="images/stars_large.jpg" rel="lightbox" title="30 minutes exposure of stars in Arizona.  The cloudy area is the Milky Way"><img src="images/stars.jpg" alt="" /></a>
+
+	<h3>Sports</h3>
+	<a href="images/gymnast_large.jpg" rel="lightbox" title="A young gymnast performing on the vault"><img src="images/gymnast.jpg" alt="" /></a>
+	<a href="images/longjump_large.jpg" rel="lightbox" title="A long jumper at Western Illinois Universtiy"><img src="images/longjump.jpg" alt="" /></a>
+
+	<h3>Events/People</h3>
+	<a href="images/pillar_large.jpg" rel="lightbox" title="The lead singer of Pillar"><img src="images/pillar.jpg" alt="" /></a>
+	<a href="images/arizona_large.jpg" rel="lightbox" title="The pastor and his wife of a church in Arizona"><img src="images/arizona.jpg" alt="" /></a>
+	<a href="images/guitar_large.jpg" rel="lightbox" title=""><img src="images/guitar.jpg" alt="" /></a>
+	<a href="images/pie_large.jpg" rel="lightbox" title="A contest to find gummi worms in whipped cream"><img src="images/pie.jpg" alt="" /></a>
+	<a href="images/pink_large.jpg" rel="lightbox" title=""><img src="images/pink.jpg" alt="" /></a>
+	<a href="images/roof_large.jpg" rel="lightbox" title="Working on a roof during a mission trip in Arizona"><img src="images/roof.jpg" alt="" /></a>
+	
+
+</div></div>
+
+<!--#include virtual="/footer.html" -->
+
+</body>
+</html>

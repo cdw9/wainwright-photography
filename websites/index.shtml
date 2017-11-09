@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+</head>
+
+<body>
+
+<h2>Websites by Chrissy Wainwright</h2>
+
+<!--#include virtual="/menu.html" -->
+
+<div id="rightContent">
+	<p>I work full-time as a website template developer and also do some freelance work designing and creating static websites.  Below are some samples of sites I have done.</p>
+    
+    <h3>Static Websites</h3>
+    <p>These are sites that I have done as freelance work.  I implemented and maintained these sites.  Two of these are no longer using my design, so I have provided samples of what they were.</p>
+    <ul>
+        <li><a href="refugeteen/">Refuge Teen</a></li>
+        <li><a href="refugechristianchurch/">Refuge Christian Church</a></li>
+        <li><a href="http://www.altopassauto.com">Alto Pass Auto</a></li>
+    </ul>
+    
+    <h3>Dynamic Websites</h3>
+    <p>These are sites for which I implemented the design while working for <a href="http://www.sixfeetup.com">Six Feet Up, Inc</a>.  They are done with the content management system <a href="http://www.plone.org">Plone</a>.</p>
+    <ul>
+        <li><a href="http://thememorylink.com/">The Memory Link</a></li>
+        <li><a href="http://www.jburroughs.org">John Burroughs School</a></li>
+        <li><a href="http://immersive-training.net/">Plone Immersive Training</a></li>
+    </ul>
+</div>
+
+<!--#include virtual="/footer.html" -->
+
+</body>
+</html>

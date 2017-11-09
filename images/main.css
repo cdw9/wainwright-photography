@@ -1,0 +1,155 @@
+body {
+	background: #333333;
+	color: #fffff0;
+	font-family: Trebuchet MS, Georgia, Sans-serif;
+	font-size: 13px;
+	margin: 0;
+	}
+	
+h2 {
+	font-weight: bold;
+	letter-spacing: 4px;
+	margin-left: 125px;
+	padding-left: 20px;
+	height: 15px;
+	background: #111111;
+	}
+	
+img {
+	border: none;
+	}
+	
+a {
+	color: #fffff0;
+	border-bottom: 1px dashed #fffff0;
+	text-decoration: none;
+	}
+	
+a:hover {
+	border: none;
+	}
+	
+#mainMenu {
+	float: left;
+	padding-top: 10px;
+	}
+	
+#mainMenu ul li {
+	margin-bottom: 10px;
+	list-style: none;
+	}
+	
+#mainMenu ul li a {
+	width: 75px;
+	display: block;
+	text-align: center;
+	background: #111111;
+	padding: 7px;
+	border: 2px solid #fffff0;
+	color: #fffff0;
+	text-decoration: none;
+	}
+	
+#mainMenu ul li li {
+	margin: 18px 0px 0px -15px;
+	}
+	
+#mainMenu ul li li a {
+	text-align: left;
+	background: #333333;
+	border: none;
+	}
+	
+#rightContent {
+	float: right;
+	padding: 20px 50px 50px 50px;
+	background: #111111;
+	margin-bottom: 30px;
+	}
+	
+#rightContent p {
+	width: 500px;
+	}
+	
+#rightContent ul {
+    width: 500px;
+    }
+	
+#footer {
+	clear: left;
+	padding: 0px 200px 10px 200px;
+	text-align: center;
+	font-size: 10px;
+	}
+	
+.award {
+	width: 500px;
+	clear: left;
+	}
+	
+.award img {
+	float: left;
+	margin-bottom: 20px;
+	padding: 5px;
+	}
+	
+#portfolio {
+	width: 500px;
+	}
+	
+#portfolio img {
+	padding: 20px;
+	float: left;
+	}
+	
+fieldset {
+    width: 335px;
+    }
+
+#rightContent fieldset ul {
+    width: 250px !important;
+    }
+	
+#rightContent h3 {
+	clear: left;
+	font-weight: bold;
+	letter-spacing: 2px;
+	margin-left: 10px;
+	padding-left: 10px;
+	height: 7px;
+	background: #333333;
+	}
+	
+#imageRotate {
+	background: url(/images/home/home.jpg);
+	width: 500px;
+	height: 333px;
+	}
+	
+		/* LIGHTBOX */
+		
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #666;
+	border-right: 2px solid #666;
+	}
+#lightboxDetails{
+	padding-top: 0.4em;
+	color: #111111;
+	}	
+#lightboxCaption{ float: left; }
+#keyboardMsg{ float: right; }
+#closeButton{ top: 5px; right: 5px; }
+
+#lightbox img{ border: none; clear: both;} 
+#overlay img{ border: none; }
+
+#overlay{ background-image: url(overlay.png); }
+
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}

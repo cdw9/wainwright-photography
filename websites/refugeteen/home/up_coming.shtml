@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Up and Coming</title><style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a href="/websites/refugeteen/home/here_now.shtml">Here &amp; Now</a>
+	<a class="current">Up &amp; Coming</a>
+	<a href="/websites/refugeteen/home/been_done.shtml">Been &amp; Done</a>
+	<a href="/websites/refugeteen/home/who_why.shtml">Who &amp; Why</a>
+</div>
+
+<div id="homeInfo">
+	
+	<h3 class="boldMe">November</h3>
+	<p><strong>November 21-23</strong>: ICYC</p>
+	<p><strong>November 26-68</strong>: Thanksgiving Break (Noblesville)</p>
+	<p><strong>November 27</strong>: Thanksgiving</p>
+	
+	<h3 class="boldMe">December</h3>
+	<p><strong>December 7</strong>: Christmas Musical/Dinner @ Refuge</p>
+	<p><strong>December 22 - Jan 5</strong>: Christmas Break</p>
+	<p><strong>December 25</strong>: CHRISTMAS</p>
+	
+	<h3 class="boldMe">January</h3>
+	<p><strong>January 16-17</strong>: Retreat for HS upperclassmen and college students</p>
+	
+	<h3 class="boldMe">February</h3>
+	<p><strong>January 13-14</strong>: 30 Hour Famine</p>
+	
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

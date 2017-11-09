@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+
+<script type="text/javascript" src="/images/lightbox.js"></script>
+</head>
+
+<body>
+
+<h2>Photography by Chrissy Wainwright</h2>
+
+<!--#include virtual="/menu.html" -->
+
+<div id="rightContent"><div id="portfolio">
+	<p>A service I can provide to you is photo editing.  This can include things such as restoring old photos or removing unwanted objects.  Please see the samples below.</p>
+	
+	<h3>Sample 1</h3>
+	<a href="images/cowsorig_large.jpg" rel="lightbox" title="Original"><img src="images/cowsorig.jpg" alt="Where the Cows Live" /></a>
+	<a href="images/cows_large.jpg" rel="lightbox" title="Edited"><img src="images/cows.jpg" alt="Where the Cows Live" /></a>
+	<p>With this photo, I removed the fence, and gave the photo an "old-time" look.</p>
+	
+	<h3>Sample 2</h3>
+	<a href="images/lindemerorig_large.jpg" rel="lightbox" title="Original"><img src="images/lindemerorig.jpg" alt="Mr. &amp; Mrs. Lindemer" /></a>
+	<a href="images/lindemer_large.jpg" rel="lightbox" title="Edited"><img src="images/lindemer.jpg" alt="Mr. &amp; Mrs. Lindemer" /></a>
+	<p>The changes here were mostly with the coloring.</p>
+	
+	<h3>Sample 3</h3>
+	<a href="images/pageorig_large.jpg" rel="lightbox" title="Original"><img src="images/pageorig.jpg" alt="Mr. &amp; Mrs. Page" /></a>
+	<a href="images/page_large.jpg" rel="lightbox" title="Edited"><img src="images/page.jpg" alt="Mr. &amp; Mrs. Page" /></a>
+	<p style="clear: left;">This was an old black and white photo.  After scanning it, I did some restoring and hand-coloring.</p>
+	
+	<h3>Sample 4</h3>
+	<a href="images/lambeauorig_large.jpg" rel="lightbox" title="Original"><img src="images/lambeauorig.jpg" alt="Lambeau Field" /></a>
+	<a href="images/lambeau_large.jpg" rel="lightbox" title="Edited"><img src="images/lambeau.jpg" alt="Lambeau Field" /></a>
+	<p style="clear: left;">The effect used here is called "tilt-shift miniature fake".  Using this process, I was able to make the stadium look like a model.</p>
+
+</div></div>
+
+<!--#include virtual="/footer.html" -->
+
+</body>
+</html>

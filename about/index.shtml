@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+</head>
+
+<body>
+
+<h2>Photography by Chrissy Wainwright</h2>
+
+<!--#include virtual="/menu.html" -->
+
+<div id="rightContent">
+	<p style="font:13px/16px Trebuchet MS">My first real experience with photography was in college.  I was majoring in Instructional Technology and Telecommunications at Western Illinois University, and photography was one of the required classes.  I really enjoyed the class, and did quite well.  The instructor was surprised to learn that I had never taken a photography class before.</p>
+	<p>I didn't start taking photos until a year a half later, when I got a camera for graduation.  It was a Fuji FinePix S7000.  It was a great camera to get started on, and I found out how much I enjoyed doing photography as a hobby.</p>
+	<p>Early 2006, I moved up to an SLR, the Canon Digital Rebel XT.  By this time, I had also started selling some stock photography.</p>
+	<p>I have photographed a wide range of things: nature, macro, sports, night, church events, family portraits, and a couple weddings.  I have found that outdoor photography is what I enjoy the most.</p>
+	<p>I currently live in a suburb of Indianapolis, and have been a member of the Riviera Camera Club since 2006.  I work full-time as a web designer, as well as do a bit of freelance work.</p>
+	<p>To see more of my photos, please visit my <a href="http://www.flickr.com/photos/wainwright/" target="_parent">Flickr site</a>.</p>
+</div>
+
+<!--#include virtual="/footer.html" -->
+
+</body>
+</html>

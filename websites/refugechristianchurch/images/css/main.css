@@ -1,0 +1,235 @@
+body {
+	background: #5b0f11 url(/websites/refugechristianchurch/images/bg.jpg) repeat-y top left;
+	font-family: Verdana, Arial, Sans-serif;
+	font-size: 13px;
+	margin: 0;
+	}
+	
+#refugePage {
+	width: 800px;
+	}
+	
+#header {
+	clear: left;
+	top: 0px;
+	}
+	
+#header h1 {
+	text-indent: -9999px;
+	height: 0px;
+	margin: 0px;
+	padding: 0;
+	border: 0;
+	}
+	
+#header img {
+	margin: 0px;
+	padding: 0px;
+	height: 80px;
+	top: 0px;
+	}
+	
+/* LEFT-SIDE NAVIGATION ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#nav {
+	float: left;
+	width: 120px;
+	margin-top: -3px;
+	}
+	
+#nav a {
+	float: left;
+	color: #ffffff;
+	text-decoration: none;
+	border-bottom: 1px solid #af595a;
+	width: 117px;
+	padding: 3px 0px 3px 3px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	}
+	
+#nav a.current, #nav a.current:hover {
+	background: #af595a;
+	color: #000000;
+	}
+	
+#nav a:hover {
+	background: #af595a;
+	color: #ffffff;
+	}
+	
+/* CONTACT INFORMATION BAR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+p.contact  {
+	float: left;
+	background: #A6A4AC;
+	font-family: Geogia, serif;
+	font-size: 12px;
+	letter-spacing: 2px;
+	width: 660px;
+	padding: 4px 10px 4px 10px;
+	margin: 0px 0px 15px 0px;
+	}
+	
+/* MAIN AREA CONTENT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#content {
+	background: #ffffff;
+	float: left;
+	width: 680px;
+	margin-top: -3px;
+	}
+	
+#content a {
+	border-bottom: 1px dotted #063418;
+	color: #627351;
+	text-decoration: none;
+	}
+	
+#content a:hover {
+	color: #ffffff;
+	background: #627351;
+	}
+	
+.info {
+	padding: 0px 10px 10px 10px;
+	}
+	
+.info p {
+	padding:  0px 10px 0px 10px;
+	margin-top: 15px;
+	}
+	
+/* WEEKLY EVENTS BOX ON THE MAIN PAGE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+	
+#weekly {
+	width: 250px;
+	background: #94977D;
+	float: right;
+	margin: 5px;
+	}
+	
+#weekly h3 {
+	background: #063418;
+	color: #f5f5f5;
+	margin: 0px;
+	text-align: center;
+	padding: 3px;
+	}
+	
+#weekly a {
+	border-bottom: 1px dotted #f5f5f5;
+	color: #f5f5f5;
+	text-decoration: none;
+	}
+	
+#weekly a:hover {
+	color: #ffffff;
+	background: #627351;
+	}
+	
+#weekly ul {
+	margin: 0px;
+	padding-left: 0px;
+	color: #f5f5f5;
+	}
+	
+#weekly ul li {
+	padding: 0px 8px 4px 8px;
+	font-weight: bold;
+	list-style: none;
+	background: #627351;
+	}
+	
+#weekly ul ul {
+	margin: 0px;
+	padding: 0px;
+	}
+	
+#weekly ul li li {
+	padding-left: 13px;
+	font-weight: normal;
+	background: #94977d;
+	}
+	
+/* SPECIAL HOME PAGE ITEMS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.homeColumn {
+    width: 325px;
+    text-align: justify;
+}
+
+.homeColumn.left {
+    float: left;
+}
+
+.homeColumn.right {
+    float: right;
+}
+	
+/* HIGHLIGHTER FOR SECTION TITLES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+	
+.highlight {
+	clear: both;
+	background: #405a3a;
+	color: #f5f5f5;
+	padding: 4px;
+	margin-right: 5px;
+	}
+	
+/* PHOTO SETS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+	
+.photoHolder {
+	float: left;
+	padding: 10px;
+	}
+	
+a img {
+	border: 0;
+	background: #ffffff;
+	}
+	
+/* CALENDAR STYLES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+	
+.calendar {
+	clear: left;
+	background: #CECFC4;
+	width: 400px;
+	border: 0;
+	padding-bottom: 25px;
+	}
+	
+.calendar h3 {
+	background: #063418;
+	color: white;
+	padding: 4px 0px 4px 7px;
+	}
+	
+.calendar h5 {
+	padding-left: 10px;
+	clear: left;
+	margin: 5px 0px 0px 0px;
+	padding-top: 6px;
+	font-size: 12px;
+	}
+	
+.calendar ul {
+	clear: left;
+	margin: 0;
+	font-size: 12px;
+	}
+	
+.calendar ul li {
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: block;
+	list-style: none;
+	margin-right: 10px;
+	}
+	
+.color2 {
+	background: #F3F3EF;
+	margin-top: 23px;
+	padding-bottom: 20px;
+	}

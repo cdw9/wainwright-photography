@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Scripture &amp; Study</title><style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a class="current">Scripture &amp; Study</a>
+	<a href="last_week.shtml">Previous Weeks</a>
+	<a href="past_studies.shtml">Past Studies</a>
+</div>
+
+<div id="homeInfo">
+    
+    <p class="boldMe">Week of November 9 - November 15</p>	
+    <p>We will begin walking through the book of Acts this week!  Trying to understand the early church and observing the challenges it faced and some of the amazing things that God does through them.</p>
+    
+	
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>

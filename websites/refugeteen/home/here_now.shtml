@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen</title>
+	<meta name="keywords" content="church, refugeteen, refuge teen, refuge, youth, youth group," />	
+	<meta name="description" content="Refugeteen.com is the official website for the youth of Refuge Christian Church, Noblesville, IN." />
+
+	<style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a class="current">Here &amp; Now</a>
+	<a href="/websites/refugeteen/home/up_coming.shtml">Up &amp; Coming</a>
+	<a href="/websites/refugeteen/home/been_done.shtml">Been &amp; Done</a>
+	<a href="/websites/refugeteen/home/who_why.shtml">Who &amp; Why</a>
+</div>
+
+<div id="homeInfo">
+    
+<h3 style="clear: both;">November 7, 2008</h3>
+
+<p class="boldMe">IMPORTANT!!!  The Wednesday and Thursday Bible Studies will be combining and moving to Nathan's house at 6pm on Wednesday nights.  If you have any questions feel free to call.</p>
+
+<p>The ICYC spots have been reserved but I only have 15 and a handful are already spoken for.  Your spot is not reserved until I get the $50 for the trip.</p>
+<img src="images/retreat.jpg" alt="" style="float: right;" />
+<p>There will be a retreat for HS Juniors and Seniors as well as college age people that we are going to participate in January 16-17.  Another youth pastor has asked me to lead worship for it as well as help with speaking.  So we will be making a trip.</p>
+<p>Looks like the 30-Hour Famine will be February 13-14.</p>
+
+
+<img src="websites/refugeteen/images/global/spacer.gif" height="1" width="590" alt="" />
+<hr />
+
+<div style="clear: left;">
+<img src="images/imago_dei.jpg" alt="" style="float: right;" />
+<p><strong>Weekly Events:</strong></p>
+<p>Church Worship Service: 9:30am Sundays<br />
+    Sunday School: 11:00am<br />
+    Small Group #1: 7:30pm Sundays @ Burrow's<br />
+    Small Group #2: 5:30pm Wednesdays @ Vaught's<br />
+    Small Group #3: 7:30pm Thursdays @ Carter's</p>
+<!--<p>Open Gym: 7:00pm various days(<a href="open_gym.shtml">See schedule</a>)</p>-->
+</div>
+
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+<div id="homeInsight">
+
+<div class="grayBox">
+<p><strong>Quote of the Week</strong></p>
+<p>"Individual commitment to a group effort -- that is what makes a team work, a company work, a society work, a civilization work." -Vince Lombardi</p>
+</div>
+
+<div class="grayBox" style="float: right;">
+<p><strong>Think on This</strong></p>
+<p>Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do.</p>
+</div>
+
+</div>
+
+<br />
+
+</div>
+
+</div></div>
+
+</body>
+</html>

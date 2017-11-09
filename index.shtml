@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Wainwright Photography</title>
+<meta name="verify-v1" content="wydUP3yyPJKgt83rH9Pkrk5WsRFEUPEh/1peBdba7c0=" />
+<style type="text/css" media="all">
+	@import url("/images/main.css");
+</style>
+
+<script type="text/javascript" src="/images/lightbox.js"></script>
+<script type="text/javascript" src="/images/jquery.js"></script>
+
+<script type="text/javascript">
+if (document.images) 
+{
+   img1 = new Image();
+   img2 = new Image();
+   img3 = new Image();
+   img4 = new Image();
+   img5 = new Image();
+   img6 = new Image();
+   img1.src = "/images/home/home.jpg";
+   img2.src = "/images/home/weddings.jpg";
+   img3.src = "/images/home/portfolio.jpg";
+   img4.src = "/images/home/about.jpg";
+   img5.src = "/images/home/awards.jpg";
+   img6.src = "/images/home/editing.jpg";
+}
+</script>
+
+</head>
+
+<body>
+
+<h2>Photography by Chrissy Wainwright</h2>
+
+<!--
+<!--#include virtual="/menu.html" -->
+-->
+
+<div id="rightContent">
+	<!-- <div id="imageRotate"></div> -->
+	<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/wainwright/37811330702/in/album-72157667193298815/" title="Bright Flower"><img src="https://farm5.staticflickr.com/4476/37811330702_43531d45e0_b.jpg" width="1024" height="684" alt="Bright Flower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<!--#include virtual="/footer.html" -->
+
+<script type="text/javascript" charset="utf-8">
+    
+   $(".linkHome").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/home.jpg)")
+   });
+   $(".linkWeddings").mouseover(function(){
+     $("#imageRotate").css("background-image","url(/images/home/weddings.jpg)")
+  });
+  $(".linkEditing").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/editing.jpg)")
+  });
+  $(".linkPortfolio").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/portfolio.jpg)")
+  });
+  $(".linkAwards").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/awards.jpg)")
+  });
+  $(".linkWebsites").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/home.jpg)")
+  });
+  $(".linkAbout").mouseover(function(){
+      $("#imageRotate").css("background-image","url(/images/home/about.jpg)")
+  });
+</script>
+
+</body>
+</html>

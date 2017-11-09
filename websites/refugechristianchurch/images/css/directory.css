@@ -1,0 +1,54 @@
+#frame {
+	font-family: Verdana, Arial, Sans-serif;
+	font-size: 13px;
+	}
+	
+.family {
+	width: 195px;
+	margin-right: 3px;
+	margin-bottom: 20px;
+	text-align: center;
+	float: left;
+	}
+	
+#alphabet_nav {
+	text-align: center;
+	margin-bottom: 10px;
+	}
+
+#alphabet_nav a {
+	padding: 3px;
+	border: 1px dotted #e3e3e3;
+	}
+	
+img {
+	border: none;
+	}
+	
+		/* LIGHTBOX */
+		
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #666;
+	border-right: 2px solid #666;
+	}
+#lightboxDetails{
+	padding-top: 0.4em;
+	color: #111111;
+	}	
+#lightboxCaption{ float: left; }
+#keyboardMsg{ float: right; }
+#closeButton{ top: 5px; right: 5px; }
+
+#lightbox img{ border: none; clear: both;} 
+#overlay img{ border: none; }
+
+#overlay{ background-image: url(overlay.png); }
+
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}

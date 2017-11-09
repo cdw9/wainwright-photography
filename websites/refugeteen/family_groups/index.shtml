@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Refuge Teen- Family Groups</title>
+	<style type="text/css" media="all">
+		@import url("/websites/refugeteen/images/css/main.css");
+	</style>
+	
+</head>
+
+<body>
+
+<div id="pageBackground"><div id="mainPage">
+
+<div id="pageContainer">
+
+<h1 class="title"><a href="/websites/refugeteen/">Refuge Teen</a></h1>
+
+<div id="infoTabs">
+	<a class="current">Intro</a>
+	<a class="invisible">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+
+<div id="homeInfo" style="clear: both;">
+	
+    <p>Thank you for taking an interest in our Family Group programs!  I have compiled an information list here that should answer all the questions that you have regarding our new programs and why we have them.</p>
+    <p>Please feel free to browse the many options we have and give some serious consideration to not just supporting this new and exciting program, but also to the possibility of bringing it into your home.  If you have a desire to help teens reach others for Christ I encourage you to talk with me about the possibility of leading or hosting a group.</p>
+    <p>Grace &amp; Peace,<br />Nathan</p>
+	
+</div>
+
+<div id="menu">
+<!--#include virtual="/websites/refugeteen/menu.html" -->
+</div>
+
+</div>
+
+</div></div>
+
+</body>
+</html>
