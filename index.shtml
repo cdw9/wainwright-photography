@@ -36,41 +36,13 @@ if (document.images)
 
 <h2>Photography by Chrissy Wainwright</h2>
 
-<!--
-<!--#include virtual="/menu.html" -->
--->
-
-<div id="rightContent">
-	<!-- <div id="imageRotate"></div> -->
-	<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/wainwright/37811330702/in/album-72157667193298815/" title="Bright Flower"><img src="https://farm5.staticflickr.com/4476/37811330702_43531d45e0_b.jpg" width="1024" height="684" alt="Bright Flower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div id="main-content">
+	<a data-flickr-embed="true" data-footer="false" data-context="true"  href="https://www.flickr.com/photos/wainwright/37811330702/in/album-72157667193298815/" title="Bright Flower">
+		<img src="https://farm5.staticflickr.com/4476/37811330702_43531d45e0_b.jpg" width="1024" height="684" alt="Bright Flower">
+	</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <!--#include virtual="/footer.html" -->
-
-<script type="text/javascript" charset="utf-8">
-    
-   $(".linkHome").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/home.jpg)")
-   });
-   $(".linkWeddings").mouseover(function(){
-     $("#imageRotate").css("background-image","url(/images/home/weddings.jpg)")
-  });
-  $(".linkEditing").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/editing.jpg)")
-  });
-  $(".linkPortfolio").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/portfolio.jpg)")
-  });
-  $(".linkAwards").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/awards.jpg)")
-  });
-  $(".linkWebsites").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/home.jpg)")
-  });
-  $(".linkAbout").mouseover(function(){
-      $("#imageRotate").css("background-image","url(/images/home/about.jpg)")
-  });
-</script>
 
 </body>
 </html>

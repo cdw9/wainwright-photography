@@ -59,7 +59,12 @@ a:hover {
 	background: #333333;
 	border: none;
 	}
-	
+#main-content {
+	text-align: center;
+	padding: 20px 50px 50px 50px;
+	background: #111111;
+	margin-bottom: 30px;
+}
 #rightContent {
 	float: right;
 	padding: 20px 50px 50px 50px;
